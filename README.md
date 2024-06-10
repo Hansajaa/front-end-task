@@ -1,5 +1,8 @@
 # front-end-task
 
+![Screenshot](public/screenshot.png)
+
+
 ### Table of Contents
 
 - [Introduction](#introduction)
